@@ -1,6 +1,8 @@
 <h1 align="center">Hola, Soy Vanessa 👋🏻👩🏻‍💻</h1>
 <h3 align="center">Frontend Developer Junior 💻</h3>
 
+<img src="https://github.com/vanesna/vanesna/blob/ea6f5c1304e1d640984852b1167213b7ad24dd41/Banner%20de%20LinkedIn.png">
+
 Mi interés por la tecnología me llevó a formarme como ingeniera mecatrónica y actualmente me desempeño como Front-end Developer. El autoaprendizaje, la perseverancia y el trabajo colaborativo se han vuelto mi mejor compañía en este proceso de formación, el cual ha sido uno de los actos más valientes y retadores que he afrontado y que sin duda me han impulsado a crecer profesional y personalmente.
 
 <h3 align="left">Languages and Tools:</h3>
